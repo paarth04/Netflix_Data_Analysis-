@@ -107,9 +107,13 @@ Compare Netflix data with other OTT platforms
 👤 Author
 
 Parth Tambe
+
 Data Analytics Enthusiast
+
 📧 paarthtambe7004@gmail.com
+
 🔗 [GitHub] (https://github.com/paarth04)
+
 -> OPEN FOR WORK!!.
 
 ⭐ If you like this project
